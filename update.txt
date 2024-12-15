@@ -2,13 +2,13 @@
   "versionCode": 10,
   "versionName": "1.2.4 ",
   "Msg": "New update is available, to continue in our app please update it.
-Thanks for using",
-  "downloadLink": "https://t.me/+QsqAFGN--jI5MDA0"
-  }
-  
-  
-  
 
-  
-  
-  
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+
+Thanks for using",
+  "downloadLink": "https://t.me/Android_play_apks"
+  }
